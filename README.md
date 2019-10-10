@@ -1,2 +1,2 @@
-# discriminant_analysis
+# Discriminant Analysis
 Discriminant Analysis Algorithms (Linear and Quadratic)
